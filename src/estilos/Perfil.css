@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(182, 178, 178);
+}
+
+h1{
+    font-style: oblique;
+    /**background-color: rgb(144, 162, 226);**/
+    font-size: 245%;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 0.4cm;
+    text-shadow: 4px 4px 4px rgb(23, 183, 189);
+}
+
+.contenedor-perfil{
+    width: 1600px;
+    height: 420px;
+    display:flex;
+    background-color: rgb(65, 80, 136);
+    margin: 30px 30px 20px 100px;
+    justify-content:center;
+    border-radius: 0.6cap;
+}
+
+.imagen-perfil{
+    height: 94%;
+    width: auto;
+    padding: 9px 2px 2px 9px;
+    border-radius:4%;
+    margin-top: 5px 2px 2px 5px;
+}
+
+.contenedor-texto-perfil{
+    width:auto;
+    height: auto;
+    text-align:justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 1.7rem;
+    margin: 10px 10px 10px 5px;
+    border-radius: 2%;
+    padding: 15px;
+    padding-bottom:5px;
+    background-color: rgb(132, 178, 209);
+}
+
+.nombre-perfil{
+    font-size: 2.5 rem;
+    text-align: center;
+}
+
+.cargo-perfil{
+    font-size: 1 rem;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.texto-perfil{
+    font-size: 1 rem;
+}
+
+button{
+	background-color: rgb(21, 192, 35);
+	border:none;
+	padding: 15px 32px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
