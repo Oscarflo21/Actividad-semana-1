@@ -17,7 +17,7 @@ function App() {
           MoureDev es el reflejo de la ilusión por crecer como profesional dentro de la 
           industria del desarrollo del software. Como freelance, se ha especializado en 
           desarrollo de aplicaciones iOS, Android y web'
-          linkedin='https://www.linkedin.com/in/brasimoure/'
+          linkedin='https://es.linkedin.com/in/braismoure'
           youtube='https://www.youtube.com/@mouredev'
           twitter='https://www.twitter.com/Mouredev'
         />
@@ -32,7 +32,7 @@ function App() {
           Ha varios cursos y bootcamp meticulosamente para que cualquier persona, sin conocimientos
           previos, pueda adentrarse de manera amena y eficiente en este fascinante mundo de
           la programación.'
-          linkedin='https://www.linkedin.com/pub/dir/Lucas/Moy/'
+          linkedin='https://es.linkedin.com/in/lucasmoy'
           youtube='https://www.youtube.com/@atl.academy'
           twitter='https://twitter.com/LucasMoy_dev/status/1678428356495265794'
         />
